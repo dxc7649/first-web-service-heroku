@@ -14,7 +14,7 @@ const port = process.env.PORT || process.env.NODE_PORT || 3000;
 const indexPage = `
 <html>
   <head>
-    <title>Random Number Web Service</title>
+    <title>Random Number Web Service starting up ...</title>
   </head>
   <body>
     <h1>Random Number Web Service</h1>
